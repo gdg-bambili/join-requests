@@ -10,8 +10,8 @@ authentication](https://blog.github.com/2013-09-03-two-factor-authentication/) e
 
 If you've yet to join the GitHub/WhatsApp community. Request an invite by creating an issue.
 
-Check out our website for more information: [https://gdgbambili.dev](https://gdgbambili.dev)S
+Check out our website for more information: [https://gdgbambili.dev](https://gdgbambili.dev)
 
 ## Authors
 
-- GDG Chapter Lead
+- [GDG Chapter Leads](@GDG-Bambili/admins)
