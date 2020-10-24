@@ -14,4 +14,4 @@ Check out our website for more information: [https://gdgbambili.dev](https://gdg
 
 ## Authors
 
-- [GDG Chapter Leads](@GDG-Bambili/admins)
+- [GDG Chapter Leads](@gdg-bambili/admins)
